@@ -1,0 +1,24 @@
+Descripción dataset:
+Esta base de datos se ha obtenido de la Agencia Estatal de METeorología (AEMET) y 
+forma parte de escenarios PNACC (Plan Nacional de Adaptación al Cambio Climático) - Datos mensuales.
+
+La colección de Escenarios-PNACC Datos mensuales incluye proyecciones regionalizadas, 
+resultado de los proyectos: ESCENA, ESTCENA, ENSEMBLES y los proyectos de regionalización de AEMET. 
+
+Se agradece la elaboración de esta colección de datos a La Oficina
+Española de Cambio Climático (OECC), la Agencia Estatal de Meteorología (AEMET), la
+Universidad de Castilla La Mancha (UCLM) y la Universidad de Cantabria (UC).
+
+La información se codifica en un único fichero ASCII con extensión 'csv' (comma separated value, columnas separadas por comas) en el que se muestran las temperaturas máximas (Cº) promedio mensuales respecto a las máximas diarias, recogidas una extensa red de 2500 estaciones de AEMET en el periodo entre 1950 y 2008.
+
+Consta de 480 filas que corresponden a fechas mensuales desde 21961 hasta el año 2000 y 1446 columnas que corresponden a un punto de rejilla o localidad.
+El código de AEMET para las localidades aparece en el fichero maestro "Master.txt", junto con la longitud, latitud y altura de cada uno de los puntos o localidades
+
+
+
+
+
+
+
+
+
